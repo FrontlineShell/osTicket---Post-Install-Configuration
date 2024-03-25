@@ -30,4 +30,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 - SLA
 
 <h2>Configuration Steps</h2>
+-When logging in make sure to double check if you are an Admin or Agent when playing roles
+
+-As admin select permissions to all and creat new department and team, make sure status is active
+
+-Config agents as they will be the ones helping and solving tickets
+
+-Config users as they will be the customers that agents supply support to/ users will be accociated with a email address
+
+-Config servie level agreement by going back to admin panel and click manage
+
+-Config help topic through admin panel then click manage this will let users choose what topic they need help with 
 
